@@ -9,8 +9,8 @@ __pycache__/
 # Data
 .env
 *.csv
-pdf/*
-pdf_regex/*
+npy/*
+npy_bak/*
 
 # Distribution / packaging
 .Python
