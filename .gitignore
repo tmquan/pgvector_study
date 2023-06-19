@@ -10,6 +10,7 @@ __pycache__/
 .env
 *.csv
 npy/*
+npy_old/*
 npy_bak/*
 
 # Distribution / packaging
